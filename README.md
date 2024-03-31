@@ -1,18 +1,3 @@
 # Todo-Application
 Todo application developed using JSP, Servlet, JDBC and MySQL Database.
-Following features
-Add todo
-Edit todo
-List Dodo
-Delete Todo
-Login
-Signup
-Responsive layout
-#Technology Used
-Java 1.8
-JSP and Servlet
-JDBC
-MySQL database
-Eclipse IDE
-Tomcat server 9.0
-JSTL-1.2
+This Todo application is developed using Java 1.8, JSP, Servlet, JDBC, and MySQL database. It offers a comprehensive set of features including adding, editing, listing, and deleting todos. Users can sign up and log in to manage their todos efficiently. The application boasts a responsive layout for seamless user experience across devices. Developed in Eclipse IDE and deployed on Tomcat server 9.0, it utilizes JSTL-1.2 for streamlined development. This project serves as a robust solution for managing todos with ease, catering to both individual and team-based task management needs.
